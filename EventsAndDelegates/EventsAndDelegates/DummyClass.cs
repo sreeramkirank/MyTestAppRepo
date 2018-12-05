@@ -10,7 +10,7 @@ namespace EventsAndDelegates
     {
         public void DummyMethod()
         {
-            //third branch changes
+            //Second branch changes
         }
     }
 }
