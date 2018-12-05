@@ -10,7 +10,7 @@ namespace EventsAndDelegates
     {
         public void Third()
         {
-            //third branch change  second change in anotherbrach
+            //third branch change  second change in another branch
         }
     }
 }
