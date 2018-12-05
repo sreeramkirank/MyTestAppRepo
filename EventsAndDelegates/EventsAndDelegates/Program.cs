@@ -118,7 +118,7 @@ namespace Example_17_3____Delegates_and_Events
 
             theClock.SecondChanged += delegate(object Clock, TimeInfoEventArgs ti)
             {
-                Console.WriteLine("Logging time to file(First change): {0}:{1}:{2}",
+                Console.WriteLine("Logging time to file(First change- Branch 1 changes): {0}:{1}:{2}",
                     ti.hour.ToString(), ti.minute.ToString(), ti.second.ToString());
             };
         }
