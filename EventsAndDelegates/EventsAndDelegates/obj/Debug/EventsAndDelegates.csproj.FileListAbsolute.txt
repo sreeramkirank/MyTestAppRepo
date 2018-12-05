@@ -1,0 +1,15 @@
+C:\Work\Cisco\C#\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+C:\Work\Cisco\C#\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+C:\Work\Cisco\C#\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+C:\Work\Cisco\C#\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojResolveAssemblyReference.cache
+C:\Work\Cisco\C#\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\Work\Cisco\C#\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
+C:\Work\Cisco\C#TestApps\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+C:\Work\Cisco\C#TestApps\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\Work\Cisco\C#TestApps\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
+C:\Work\Cisco\C#TestApps-Git\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+C:\Work\Cisco\C#TestApps-Git\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\Work\Cisco\C#TestApps-Git\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
+C:\Work\Cisco\C#TestApps-Git\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+C:\Work\Cisco\C#TestApps-Git\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+C:\Work\Cisco\C#TestApps-Git\EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojResolveAssemblyReference.cache
