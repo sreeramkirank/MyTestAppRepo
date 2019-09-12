@@ -6,6 +6,7 @@ using System.Threading;
 
 namespace Example_17_3____Delegates_and_Events
 {
+    //Branch_1 changes
     // a class to hold the information about the event
     // in this case it will hold only information
     // available in the clock class, but could hold
