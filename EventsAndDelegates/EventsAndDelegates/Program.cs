@@ -108,6 +108,8 @@ namespace Example_17_3____Delegates_and_Events
         {
             Console.WriteLine("Current Time to write: {0}:{1}:{2}", 
               ti.hour.ToString( ), ti.minute.ToString( ), ti.second.ToString( ));
+            Console.WriteLine("Changed line");
+
         }
     }
     // a second subscriber whose job is to write to a file
