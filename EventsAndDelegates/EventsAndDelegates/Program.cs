@@ -7,6 +7,7 @@ using System.Threading;
 namespace Example_17_3____Delegates_and_Events
 {
     //change_1_Branch commit 1
+    //change_1_Branch commit 2
 
     //Branch_1 changes
     //Branch_1.1 changes
