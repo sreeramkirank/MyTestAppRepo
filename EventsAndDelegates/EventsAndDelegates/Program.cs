@@ -6,6 +6,8 @@ using System.Threading;
 
 namespace Example_17_3____Delegates_and_Events
 {
+    //change_1_Branch commit 1
+
     //Branch_1 changes
     //Branch_1.1 changes
     // a class to hold the information about the event
