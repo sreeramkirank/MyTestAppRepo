@@ -10,6 +10,7 @@ namespace Example_17_3____Delegates_and_Events
     //change_1_Branch commit 2
     //Change_3_branch -- commit 1
     //Change_3_branch -- commit 2
+    //master change commit 1
 
     //Branch_1 changes
     //Branch_1.1 changes
