@@ -18,6 +18,8 @@ namespace Example_17_3____Delegates_and_Events
     // in this case it will hold only information
     // available in the clock class, but could hold
     // additional state information
+
+    //change for multiple mainlines 1
     public class TimeInfoEventArgs : EventArgs
     {
         public int hour;
