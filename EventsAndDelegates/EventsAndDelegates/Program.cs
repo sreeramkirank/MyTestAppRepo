@@ -6,6 +6,7 @@ using System.Threading;
 
 namespace Example_17_3____Delegates_and_Events
 {
+    // revert 2
     //change_1_Branch commit 1
     //change_1_Branch commit 2
     //Change_3_branch -- commit 1
